@@ -6,5 +6,9 @@
   "dependencies": {
     "util.promisify": "^1.0.0",
     "wordpress": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unshift/wordpress-utils.git"
   }
 }
